@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F7559603-kid-happy-learning-codding-in-computer-web-coding-for-kids-illustration-coding-its-fun-can-be-used-for-web-banner-poster-social-media-promotion-etc&psig=AOvVaw3MeAyEXZEbTLyGAShCjiKG&ust=1687530733050000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNi7v_-L1_8CFQAAAAAdAAAAABAE)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcodding&psig=AOvVaw3MeAyEXZEbTLyGAShCjiKG&ust=1687530733050000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNi7v_-L1_8CFQAAAAAdAAAAABAJ)
 <h1 align="center">Hi 👋, I'm Yusuf Emin Güney</h1>
 <h3 align="center">I'm junior developer from Turkiye</h3>
 
